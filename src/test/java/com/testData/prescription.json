@@ -1,0 +1,15 @@
+{
+  "patient": 773,
+  "additional_notes": "My aditional notices",
+  "medical_tests": [],
+  "prescribed_medicines": [
+    {
+      "medicine": 1,
+      "dosage_1": 2,
+      "dosage_2": 2,
+      "dosage_3": 1,
+      "duration": 2,
+      "meal_reliance": 1
+    }
+  ]
+}
